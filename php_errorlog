@@ -1,0 +1,121 @@
+[03-Jan-2025 09:41:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:8
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(8): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 8
+[03-Jan-2025 09:41:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:8
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(8): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 8
+[03-Jan-2025 09:42:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:8
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(8): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/login.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 8
+[03-Jan-2025 09:42:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:8
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(8): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/login.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 8
+[03-Jan-2025 09:44:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:8
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(8): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 8
+[03-Jan-2025 09:47:01 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 09:47:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:11
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(11): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 09:49:37 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 09:49:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:11
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(11): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/login.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 09:50:05 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 09:50:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:11
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(11): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 09:50:32 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 09:50:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:11
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(11): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/index.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 09:50:37 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 09:50:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbqqxnov8eb9av failed: Name or service not known in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php:11
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php(11): mysqli->__construct('dbqqxnov8eb9av', 'ukoh9qzoemwgg', Object(SensitiveParameterValue), 'dbqqxnov8eb9av')
+#1 /home/customer/www/rsk298.rehan.school/public_html/OLX/index.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/db.php on line 11
+[03-Jan-2025 10:04:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php:11) in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php on line 12
+[03-Jan-2025 10:05:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Ayanearnigwala@gmail.com' for key 'users.email' in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(10): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php on line 10
+[03-Jan-2025 10:16:33 UTC] PHP Warning:  move_uploaded_file(uploads/Add a subheading.png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:16:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpctGyeB&quot; to &quot;uploads/Add a subheading.png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:20:32 UTC] PHP Warning:  move_uploaded_file(uploads/Add a subheading.png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:20:32 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php8vsqXT&quot; to &quot;uploads/Add a subheading.png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:23:47 UTC] PHP Warning:  move_uploaded_file(uploads/Add a subheading.png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:23:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpC9aqnz&quot; to &quot;uploads/Add a subheading.png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:23:48 UTC] PHP Warning:  move_uploaded_file(uploads/Add a subheading.png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:23:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpNCmCL7&quot; to &quot;uploads/Add a subheading.png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:27:53 UTC] PHP Warning:  move_uploaded_file(uploads/Add a subheading.png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:27:53 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpkcReh7&quot; to &quot;uploads/Add a subheading.png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:47:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Ayanearnigwala@gmail.com' for key 'users.email' in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(10): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php on line 10
+[03-Jan-2025 10:51:59 UTC] PHP Warning:  move_uploaded_file(uploads/Peach and Pink Food Weekly Meal Planner Poster.png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:51:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpV2VQ9C&quot; to &quot;uploads/Peach and Pink Food Weekly Meal Planner Poster.png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:53:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Ayanearnigwala@gmail.com' for key 'users.email' in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(10): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php on line 10
+[03-Jan-2025 10:56:59 UTC] PHP Warning:  move_uploaded_file(uploads/Add a subheading.png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 10:56:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpszCxQI&quot; to &quot;uploads/Add a subheading.png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 11:04:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Ayan' for key 'users.username' in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(10): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php on line 10
+[03-Jan-2025 11:04:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Ayan' for key 'users.username' in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(10): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php on line 10
+[03-Jan-2025 11:09:05 UTC] PHP Warning:  move_uploaded_file(uploads/Add a subheading (1).png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 11:09:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpsb2RiB&quot; to &quot;uploads/Add a subheading (1).png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 12:33:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Ayan' for key 'users.username' in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(10): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php on line 10
+[03-Jan-2025 12:37:13 UTC] PHP Warning:  move_uploaded_file(uploads/Add a subheading.png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 12:37:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpR2HEVP&quot; to &quot;uploads/Add a subheading.png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 13:23:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Ayan' for key 'users.username' in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php(10): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsk298.rehan.school/public_html/OLX/signup.php on line 10
+[03-Jan-2025 13:25:45 UTC] PHP Warning:  move_uploaded_file(uploads/Peach and Pink Food Weekly Meal Planner Poster.png): Failed to open stream: No such file or directory in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
+[03-Jan-2025 13:25:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phppW4ejA&quot; to &quot;uploads/Peach and Pink Food Weekly Meal Planner Poster.png&quot; in /home/customer/www/rsk298.rehan.school/public_html/OLX/post_ad.php on line 16
